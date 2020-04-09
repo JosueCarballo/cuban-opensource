@@ -221,6 +221,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Python
 
+- [cuota_datos](https://github.com/JosueCarballo/cuota_datos): Cuota Datos is an application and script used to know the mobile data quota status of your Etecsa account from the Windows console or from the Linux console.
 - [django-ajax](https://github.com/yceruto/django-ajax): Django library for AJAX operations.
 - [django-js-choices](https://github.com/lorinkoz/django-js-choices): JavaScript model's fields choices handling for Django.
 - [django-partial-date](https://github.com/ktowen/django_partial_date): Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.
